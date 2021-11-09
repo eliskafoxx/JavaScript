@@ -20,11 +20,11 @@ for (x = 10; x >= 1; x--) {
     //console.log(x)
 
     if ((((((x === 10) || (x === 9)) || (x === 7)) || (x === 6)) || (x === 4)) || (x === 3)) {
-        console.log(x + " little ")
+        console.log(x + " little, ")
     }
 
     else if ((((x === 7)) || (x === 5)) || (x === 2)) {
-        console.log(x + " little Indians ")
+        console.log(x + " little, Indians ")
     }
 
     else if (x === 1) {
